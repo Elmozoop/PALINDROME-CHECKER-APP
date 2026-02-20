@@ -1,4 +1,4 @@
-public class palindromechecker {
+ class palindromechecker {
 
     private static final String APP_NAME = "PalindromeChecker App";
     private static final String APP_VERSION = "Version 1.0";
